@@ -68,7 +68,7 @@ class BigBasketScheduler:
             'sender': 'bbnet2@bigbasket.com',
             'search_term': 'grn',
             'days_back': 2,
-            'max_results': 10,
+            'max_results': 1000,
             'gdrive_folder_id': '1l5L9IdQ8WcV6AZ04JCeuyxvbNkLPJnHt'
         }
         
